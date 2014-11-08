@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repo
+Just another repo.
+
+This is a test file. This is a test file.
